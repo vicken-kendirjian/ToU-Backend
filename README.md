@@ -33,26 +33,6 @@ We used AWS S3 bucket to upload the required files such as the travelers' ticket
 -[PostDevelopment Documentation](sides/API%20documentation.pdf)
 
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`SECRET_JWT=bastermasojo24lmfkasjdhaksdhaskdhaskdjhaskdhaskdjhaskd`
-
-`SECRET_REFRESH_JWT=kasjdhaksdjhakdhaksjdhaskjdhasjkdhakjsdhasdhaskdjh`
-
-`SECRET_EMAIL=lepolelelepolpolele2348ydac`
-
-`SECRET_CONFIRM_ORDER=asjkdhaksdjhaksjdhakjsdh95259`
-
-`ACCESS_KEY=AKIAXRNYOKYLDWYXIJFV`
-
-`ACCESS_SECRET=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`
-
-`REGION=eu-north-1`
-
-`BUCKET=toufiles`
-
 
 ## Features
 
