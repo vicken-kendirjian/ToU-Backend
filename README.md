@@ -76,31 +76,6 @@ Here are the related projects
 - [The Website](https://github.com/brunoazar/ToU-WebFE)
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/brunoazar/ToU-Backend
-```
-
-Go to the project directory
-
-```bash
-  cd ToU-Backend
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  nodemon app.js
-```
 
 
 ## Tech Stack
